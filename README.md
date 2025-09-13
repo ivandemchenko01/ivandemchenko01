@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🔭 I'm currently working as Middle Fullstack developer (NestJS, AWS, React) <br>🌱 Also I'm learning how to DevOps at Enterprise level
 
