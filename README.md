@@ -1,7 +1,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivan-demchenko-3299711b3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ivan.demchenko.dev@gmail.com) 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats (one year):
 
 <p align="center">
   <img src="github-metrics.svg" />
