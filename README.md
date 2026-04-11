@@ -6,8 +6,9 @@
 
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivandemchenko01&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=ivandemchenko01&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivandemchenko01&layout=compact&theme=radical&hide_border=true&langs_count=8)
+<p align="center">
+  <img src="github-metrics.svg" />
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
