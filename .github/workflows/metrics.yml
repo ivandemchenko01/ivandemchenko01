@@ -21,10 +21,4 @@ jobs:
           config_timezone: Europe/Minsk
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_languages_threshold: 0%
-          plugin_languages_details: percentage
-          plugin_languages_other: yes
-          plugin_languages_recently_used: yes
-          plugin_languages_recently_used_days: 365
+          
