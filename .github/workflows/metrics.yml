@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Основные настройки
-          user: ВАШ_НИК
+          user: ivandemchenko01
           template: classic
           base: header, activity, community, repositories, metadata
 
